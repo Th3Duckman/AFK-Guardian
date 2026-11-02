@@ -1,0 +1,14 @@
+/home/kan3nas/AFKGuardian/bin/Debug/net10.0/AFKGuardian
+/home/kan3nas/AFKGuardian/bin/Debug/net10.0/AFKGuardian.deps.json
+/home/kan3nas/AFKGuardian/bin/Debug/net10.0/AFKGuardian.runtimeconfig.json
+/home/kan3nas/AFKGuardian/bin/Debug/net10.0/AFKGuardian.dll
+/home/kan3nas/AFKGuardian/bin/Debug/net10.0/AFKGuardian.pdb
+/home/kan3nas/AFKGuardian/obj/Debug/net10.0/AFKGuardian.GeneratedMSBuildEditorConfig.editorconfig
+/home/kan3nas/AFKGuardian/obj/Debug/net10.0/AFKGuardian.AssemblyInfoInputs.cache
+/home/kan3nas/AFKGuardian/obj/Debug/net10.0/AFKGuardian.AssemblyInfo.cs
+/home/kan3nas/AFKGuardian/obj/Debug/net10.0/AFKGuardian.csproj.CoreCompileInputs.cache
+/home/kan3nas/AFKGuardian/obj/Debug/net10.0/AFKGuardian.dll
+/home/kan3nas/AFKGuardian/obj/Debug/net10.0/refint/AFKGuardian.dll
+/home/kan3nas/AFKGuardian/obj/Debug/net10.0/AFKGuardian.pdb
+/home/kan3nas/AFKGuardian/obj/Debug/net10.0/AFKGuardian.genruntimeconfig.cache
+/home/kan3nas/AFKGuardian/obj/Debug/net10.0/ref/AFKGuardian.dll
